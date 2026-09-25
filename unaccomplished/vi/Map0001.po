@@ -54,7 +54,7 @@ msgstr ""
 
 #. ID 177, Page 1, Line 1, Pos (18,36)
 msgid "Unaccomplished Wallpaper Submission"
-msgstr ""
+msgstr "Nộp Hình Nền Máy Tính Cho Unaccomplished"
 
 #. ID 179, Page 1, Line 1, Pos (56,11)
 msgid "11223"
