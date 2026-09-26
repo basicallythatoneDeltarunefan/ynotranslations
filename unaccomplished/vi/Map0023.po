@@ -192,7 +192,7 @@ msgid ""
 msgstr ""
 "[Tip]\n"
 "Nếu tiếp theo có hiện thông báo lỗi,\n"
-"xin hãy đọc thêm ở phần [Help]"
+"xin hãy đọc thêm ở phần [Trợ giúp]"
 
 #. ID 115, Page 1, Line 38, Pos (5,2)
 #. Contains choice at line 2 (3 options)
