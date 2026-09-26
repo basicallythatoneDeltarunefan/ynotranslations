@@ -767,8 +767,8 @@ msgid "Begin!"
 msgstr "Bắt Đầu!"
 
 msgctxt "terms.load_game"
-msgid "Think?"
-msgstr "Suy Nghĩ?"
+msgid "Think:"
+msgstr "Suy Nghĩ:"
 
 msgctxt "terms.exit_game"
 msgid "Over."
