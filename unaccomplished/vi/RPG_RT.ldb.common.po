@@ -604,8 +604,7 @@ msgid ""
 msgstr ""
 "Nên là...mình đã tiêu 55 nhân dân tệ!!! Quá là\n"
 "nhiều tiền đi mà!!!\n"
-"Nhưng nó lại tiết kiệm được 5 nhân dân tệ. \n"
-"\n<easyrpg:new_page>Ahhhhhhhhhhh có nhất thiết phải làm như thế\n"
+"Nhưng nó lại tiết kiệm được tận 5 nhân dân tệ.\n<easyrpg:new_page>\nAhhhhhhhhhhh có nhất thiết phải làm như thế\n"
 "không vậy?"
 
 #. ID 42, Line 37
